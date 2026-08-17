@@ -51,11 +51,12 @@
 
 7. Повторил все шаги для роли `lighthouse-role`.
 
-8. Выложил роли в репозитории. Ссылки на репозитории ролей:
+8. 
 
-https://github.com/DemoniumBlack/vector-role
+   <img width="1105" height="960" alt="image" src="https://github.com/user-attachments/assets/ffd31418-b89a-4b3f-b6f3-d82ac0e4dc53" />
 
-https://github.com/DemoniumBlack/lighthouse-role
+<img width="1052" height="925" alt="image" src="https://github.com/user-attachments/assets/135ca7c3-65d5-408a-ba3d-73386f8c3fcb" />
+
 
 9. Изменил playbook на использование roles.
 
