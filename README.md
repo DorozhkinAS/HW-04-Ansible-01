@@ -37,7 +37,7 @@
 
 1. В старом playbook создал файл requirements.yml с указанным содержимым:
 
-![img_1.png](IMG/img_1.png)
+<img width="562" height="112" alt="image" src="https://github.com/user-attachments/assets/b23815de-650b-4fd2-8cae-4afbc160f1dc" />
 
 2. Скачал роль с помощью `ansible-galaxy`, появилась директория `roles` с субдиректорией `clickhouse`, в которой находится playbook для установки роли clickhouse.
 
