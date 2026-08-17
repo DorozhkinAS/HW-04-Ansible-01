@@ -56,13 +56,13 @@
 
    <img width="1105" height="960" alt="image" src="https://github.com/user-attachments/assets/ffd31418-b89a-4b3f-b6f3-d82ac0e4dc53" />
 
-<img width="1052" height="925" alt="image" src="https://github.com/user-attachments/assets/135ca7c3-65d5-408a-ba3d-73386f8c3fcb" />
+   <img width="1052" height="925" alt="image" src="https://github.com/user-attachments/assets/135ca7c3-65d5-408a-ba3d-73386f8c3fcb" />
 
 
 9. Изменил playbook на использование roles.
 
 10. Playbook 
 
-   <img width="1013" height="1176" alt="image" src="https://github.com/user-attachments/assets/492f514e-da23-4551-a7f9-914c736dbc8c" />
+  <https://github.com/DorozhkinAS/HW-04-Ansible-01/tree/main/playbook/>
 
 ---
