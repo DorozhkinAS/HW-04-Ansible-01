@@ -59,6 +59,8 @@ https://github.com/DemoniumBlack/lighthouse-role
 
 9. Изменил playbook на использование roles.
 
-10. Выложил playbook в репозиторий. Ссылка на playbook: https://github.com/DemoniumBlack/fedorchukds-devops-33-19/tree/main/playbook
+10. Playbook 
+
+   <img width="1013" height="1176" alt="image" src="https://github.com/user-attachments/assets/492f514e-da23-4551-a7f9-914c736dbc8c" />
 
 ---
